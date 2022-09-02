@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YuvaneetYuvraj
-- 👀 I’m interested in coding with different languages
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me yuvaneetyuvraj@gmail.com
+- 👀 I love making web apps with MERN stack
+- 🌱 You will find me writing and designing
+- 💞️ I’m looking to collaborate on Mern Stack
+- 📫 You can reach out to me at yuvaneetyuvraj@gmail.com
 
 <!---
 YuvaneetYuvraj/YuvaneetYuvraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
